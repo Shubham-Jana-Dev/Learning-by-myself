@@ -105,39 +105,64 @@ while i>=1:
     print (i)
     i-=5
 """
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Leet code problems
+"""
 nums = [3, 2, 4]
 target = 6
 for i in range(len(nums)):
     for j in range(i+1,len(nums)):
         if target == nums[i] + nums[j]:
             print(i,j)
-
+"""
+# leet code problem 2 sum.
+"""
 class Solution(object):
     def twoSum(self, nums, target):
         for i in range(len(nums)):
             for j in range(i+1, len(nums)):
                 if target == nums[i]+nums[j]:
                     return[i,j]
+"""
+# 1. creat a dummy node and a carry variable
+
+# 2. start loop
+class Solution(object):
+    def addTwoNumbers(self, l1, l2):
+        dummy = ListNode(0)
+        current = dummy
+        carry = 0
+        while l1 or l2 or carry:
+            dummy = ListNode(0)
+            current = dummy
+            carry = 0
+    # taking value from l1 and l2 (if they are not ended)
+            v1 = l1.val if l1 else 0
+            v2 = l2.val if l2 else 0
+    
+    # method of calulating the sum and the valu of the carry
+            total = v1 + v2 + carry
+            carry = total // 10    # it returns the whole number as remainder (example: 13 // 10 = 1)
+            val = total % 10       # it returns the remainder (example: 13 % 13 = 3)
+    
+    # 3. add new node after creating it
+            current.next = ListNode(val)
+    
+    # 4. set pu the pointers
+            current = current.next
+            if l1: l1 = l1.next
+            if l2: l2 = l2.next
+
+# 5. finaly return the next part of the dummy
+        return dummy.next
 
 
-"""
-:type nums: List[int]
-:type target: int
-:rtype: List[int]
-"""
-                
+
+
+
+
+
+
+
+
+
+
