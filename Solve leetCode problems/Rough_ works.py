@@ -126,6 +126,7 @@ class Solution(object):
 # 1. creat a dummy node and a carry variable
 
 # 2. start loop
+'''
 class Solution(object):
     def addTwoNumbers(self, l1, l2):
         dummy = ListNode(0)
@@ -154,10 +155,18 @@ class Solution(object):
 
 # 5. finaly return the next part of the dummy
         return dummy.next
-
-
-
-
+'''
+print(121 // 10)
+# palindroms numbers
+x = 121
+original = x
+reversed_num = 0
+while  x > 0:
+    last_digit = x % 10
+    reversed_num = (reversed_num * 10) + last_digit
+    x = x // 10
+if original == reversed_num:
+    print("This is a palinrom number")
 
 
 
