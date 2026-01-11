@@ -32,4 +32,7 @@ for ind, i in enumerate(my_list):
     if (i == t):
         print(f"at index number,{ind} we can find",t)
 """
-
+# Leetcode problem number 2396
+class Solution(object):
+    def isStrictlyPalindromic(self, n):
+        return False
