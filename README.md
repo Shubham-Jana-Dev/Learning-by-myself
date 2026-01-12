@@ -1,1 +1,1 @@
-# Python-learning-by-myself
+# Learning-by-myself
