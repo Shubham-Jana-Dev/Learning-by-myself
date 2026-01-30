@@ -37,4 +37,11 @@ def Firewall_filter():
             authorized_list.append(i)
     print(blocked_list)
     print(authorized_list)
+# Firewall_filter()
+def Firewall_filter():
+    input_list = ["apple","logic","dirty","coding","doll","university"]
+    blocked_list = [i for i in input_list if i == "doll" or i == "dirty" ]
+    authorized_list = [i for i in input_list if i != "doll" and i != "dirty"]
+    print(blocked_list)
+    print(authorized_list)
 Firewall_filter()
