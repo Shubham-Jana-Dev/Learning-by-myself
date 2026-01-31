@@ -92,3 +92,18 @@ def Access():
     else:
         print("Access Denied: Restricted Zone.")
 Access()
+def Access():
+    # Dictionary with Key-Value pairs
+    user_permissions = {
+        "Shubham": "Admin",
+        "Mamma": "Guest",
+        "Neha": "Guest"
+    }
+    
+    user = input("Enter your Identity: ")
+    
+    # Logic: Check the value associated with the key
+    if user_permissions.get(user) == "Admin":
+        print(f"Welcome {user}! Access Granted: Apple Scent Detected.")
+    else:
+        print("Access Denied: Restricted Zone.")
