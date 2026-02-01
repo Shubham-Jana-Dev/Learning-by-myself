@@ -1,4 +1,8 @@
 #include<stdio.h>
+void calculateSqure (int number){
+    int squre = number*number;
+    printf("\nthe squre of %d is %d\n",number,squre);
+}
 int main(){
 int arr[] = {1,2,3,4,5};
 int n = sizeof(arr)/sizeof(arr[0]);
@@ -23,5 +27,6 @@ for(int j=0; j<n;j++){
     }
 }
 printf("]");
+calculateSqure(6);
     return 0;
 }
