@@ -1,0 +1,16 @@
+max hepa:-
+The parent node will be always greater than its children
+nodes.
+                  90
+                /     \
+               13     12
+              /  \   /  \
+             8    7 6    4
+min heap:-
+The parents node will be always lesser than its children 
+nodes.
+                   9
+                /     \
+               14     12
+              /  \   /  \
+             81   87 90  91
