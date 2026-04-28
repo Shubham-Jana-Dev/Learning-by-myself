@@ -12,7 +12,7 @@ int main(){
 */
     //Vector potion:
     // std::vector<dataType> vector_Name(Vector_size);
-    std::vector<int> My_vector; //we have not give a size and we can do it and it's a empty vector.
+    std::vector<int> My_vector; //we haven not give a size and we can do it and it's an empty vector.
     
     My_vector.push_back(34);
     My_vector.push_back(20); 
