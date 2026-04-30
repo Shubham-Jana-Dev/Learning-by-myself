@@ -27,6 +27,15 @@ int main(){
 
 
     std::vector<int> Numbers(5);
+    Numbers[1] = 2;
+    Numbers[0] = 334;
+    Numbers[2] = 2957;
+    Numbers[3] = 321;
+    Numbers[4] = 88;
+    for (int i = 0;i<5;i++){
+        std::cout<< Numbers[i]<<std::endl;
+    }
+    std::cout<<Numbers[1]<<std::endl;
     std::vector<char> Names(3);
     std::vector<double> marks(2); 
     
