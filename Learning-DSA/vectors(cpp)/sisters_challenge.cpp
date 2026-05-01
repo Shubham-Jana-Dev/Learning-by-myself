@@ -28,14 +28,17 @@ Assignment_scores.push_back(80);
 Assignment_Weightage.push_back(0.9);
 int num = Assignment_scores.size();
 float cc = 0;
+float t_cc = 0;
 for (int i = 0; i<num; i++){
-    cc = cc + (Assignment_scores[i] * Assignment_Weightage[i]);
-    std::cout<<"Final score of: " << Assignment_sub[i] << " is "<< cc << std::endl;
+    cc = (Assignment_scores[i] * Assignment_Weightage[i]);
+    t_cc += cc; 
+    std::cout<<"Final score of: " << Assignment_sub[i] << ", is "<< cc << std::endl;
 }
-if(cc>90){
+std::cout<<"The total score of all subjects is "<<t_cc<<std::endl;
+if(t_cc>90){
     std::cout<<"Princess Approved: Commander is a genius."<<std::endl;
 }
-else if(cc>80){
+else if(t_cc>80){
     std::cout<<"Good"<<std::endl;
 }
 else{
