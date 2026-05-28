@@ -12,18 +12,18 @@ MyNum = new int;
 std::cout << "addreass: " << MyNum <<std::endl;
 std:: cout << "value: "<< *MyNum <<std::endl;
     delete MyNum;
-char *My_greed = NULL;
+char *My_gred = NULL;
 int size;
 std::cout<<"Enter the size of the array: ";
 std::cin>>size;
 std::cout<<std::endl;
-My_greed = new char[size];
+My_gred = new char[size];
 for (int i = 0; i<size;i++){
     std::cout<<"enter the charecter at the "<<i<<"th position: ";
-    std::cin>>My_greed[i];
+    std::cin>>My_gred[i];
 
 }
-std::cout<< "greeds are: "<<My_greed<<std::endl;
-delete[] My_greed;
+std::cout<< "greds are: "<<My_gred<<std::endl;
+delete[] My_gred;
     return 0;
 }
