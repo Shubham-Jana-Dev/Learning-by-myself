@@ -5,13 +5,7 @@ int main(){
 
 // Useful when we do not know how much memory we will need. Makes our prgram more flexible.
 // especially when accepting user input.
-int *MyNum = NULL;
-MyNum = new int;
-*MyNum = 19;
 
-std::cout << "addreass: " << MyNum <<std::endl;
-std:: cout << "value: "<< *MyNum <<std::endl;
-    delete MyNum;
 char *My_gred = NULL;
 int size;
 std::cout<<"Enter the size of the array: ";
