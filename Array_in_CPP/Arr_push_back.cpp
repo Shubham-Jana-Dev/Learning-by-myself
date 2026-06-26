@@ -3,7 +3,9 @@
 //  
 //
 //  Created by Shubham Jana on 26/06/26.
-//
+
+// clear && g++ -std=c++17 Arr_push_back.cpp -o Arr_push_back.exe && ./Arr_push_back.exe
+
 #include <iostream>
 #include <vector>
 void push_back(){
