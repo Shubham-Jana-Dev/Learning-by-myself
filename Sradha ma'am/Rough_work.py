@@ -25,14 +25,11 @@ for ind in range(len(my_list)):
         print(f"at index number,{ind} we can find",t)
 """
 # another way..
-
+"""
 my_list = [1,4,9,16,25,36,49,64,81,100,49]
 t = 49
 for ind, i in enumerate(my_list):
     if (i == t):
         print(f"at index number,{ind} we can find",t)
-        
-# Leetcode problem number 2396
-class Solution(object):
-    def isStrictlyPalindromic(self, n):
-        return False
+"""
+
