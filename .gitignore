@@ -12,6 +12,7 @@
 .output/
 #Extension App-file
 *.app
+*.exe
 #Rapid Application Development File
 rad.json
 #Translation Base-file
@@ -21,3 +22,4 @@ rad.json
 tt.py
 #Test results file
 TestResults.xml
+rough.C
