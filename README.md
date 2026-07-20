@@ -25,4 +25,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0796-rotate-string) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
