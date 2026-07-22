@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0066-plus-one) |
 ## String Matching
 |  |
 | ------- |
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
