@@ -1,23 +1,13 @@
 class Solution {
     public int lengthOfLastWord(String s) {
         int wordCount = 0;
-        int skippingCount = 0;
-        boolean flag = false;
-        for(int j = 0; j < s.length(); j++){
+        for (int j = s.length() - 1; j>=0; j--){
             if(s.charAt(j) != ' '){
-                skippingCount ++;
-                flag = true;
-            }else{
-                if(flag){
-                wordCount = skippingCount;
-                }
-                skippingCount = 0;
-                flag = false;
+                wordCount++;
+            }else if(s.charAt(j) == ' ' && wordCount > 0){
+                return wordCount;
             }
         }
-        if(s.charAt(s.length()-1) == ' '){
-            return wordCount;
-        }
-        return skippingCount;
+        return wordCount;
     }
 }
