@@ -24,6 +24,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0258-add-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -53,4 +54,12 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
