@@ -14,6 +14,7 @@
 | [0013-roman-to-integer](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0796-rotate-string) |
 ## Sliding Window
 |  |
@@ -25,6 +26,7 @@
 | [0013-roman-to-integer](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0412-fizz-buzz) |
 ## String Matching
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
