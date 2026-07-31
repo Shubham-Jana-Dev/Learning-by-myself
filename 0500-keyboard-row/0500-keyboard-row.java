@@ -16,6 +16,7 @@ class Solution {
                     flag = 3;
                 }else{
                     flag = -1;
+                    break;
                 }
             }if (flag != -1){
                 resultList.add(k);
