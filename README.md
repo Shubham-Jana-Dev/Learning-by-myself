@@ -70,4 +70,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0258-add-digits) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
