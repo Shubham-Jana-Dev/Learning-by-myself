@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0203-remove-linked-list-elements) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
