@@ -30,6 +30,7 @@
 | [0066-plus-one](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0412-fizz-buzz) |
+| [0633-sum-of-square-numbers](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0633-sum-of-square-numbers) |
 ## String Matching
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0633-sum-of-square-numbers](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0633-sum-of-square-numbers) |
 ## Array
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0035-search-insert-position) |
+| [0633-sum-of-square-numbers](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
