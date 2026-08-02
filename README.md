@@ -31,6 +31,7 @@
 | [0258-add-digits](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0877-stone-game) |
 ## String Matching
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0136-single-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0136-single-number) |
 | [0500-keyboard-row](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0500-keyboard-row) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0877-stone-game](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,4 +84,12 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0203-remove-linked-list-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
