@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0234-palindrome-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0633-sum-of-square-numbers) |
 ## Array
 |  |
@@ -79,11 +80,13 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,4 +95,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0877-stone-game) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
