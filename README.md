@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0013-roman-to-integer) |
 | [0500-keyboard-row](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0500-keyboard-row) |
+| [3731-find-missing-elements](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0500-keyboard-row](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0500-keyboard-row) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0877-stone-game) |
+| [3731-find-missing-elements](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,4 +102,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0234-palindrome-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
