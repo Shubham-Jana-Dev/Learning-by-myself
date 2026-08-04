@@ -17,21 +17,6 @@ class Solution {
                 continue;
             }
         }
-        
-        //int j = 1;
-        // for (int j = 1; j < nums.length; j++){
-        //     if(temp+1 != nums[j]){
-        //         int inLoopCount = nums[j] - temp;
-        //         for( int k = 0; k<inLoopCount; k++){
-        //             resultList.add(temp+1);
-        //         }
-        //         temp++;
-        //     }else{
-        //         temp = nums[j];
-        //         //j--;
-        //     }
-        //         //temp++;
-        // }
         return resultList;
     }
 }
