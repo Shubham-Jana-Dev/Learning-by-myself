@@ -54,6 +54,7 @@
 | [0035-search-insert-position](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0136-single-number) |
+| [0485-max-consecutive-ones](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0500-keyboard-row) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0877-stone-game) |
