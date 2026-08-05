@@ -4,7 +4,7 @@
 //
 //  Created by Shubham Jana on 24/07/26.
 //
-public class Persion{
+class Persion{
     private String name;
     private String address;
     private double balance;
@@ -20,7 +20,7 @@ public class Persion{
         this.balance = balance;
     }
     public void show(){
-        System.out.println("Name: "+name + " Address: " + address + " Balance: "+ balance);
+        System.out.println("Name: "+name + "\n"+"Address: " + address + "\n"+"Balance: "+ balance);
     }
 }
 public class Bank{
