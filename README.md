@@ -33,6 +33,7 @@
 | [0412-fizz-buzz](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0877-stone-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String Matching
 |  |
 | ------- |
@@ -114,4 +115,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0004-median-of-two-sorted-arrays) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
