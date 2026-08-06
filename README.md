@@ -60,6 +60,7 @@
 | [0500-keyboard-row](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0500-keyboard-row) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0877-stone-game) |
+| [1929-concatenation-of-array](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -77,6 +78,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
