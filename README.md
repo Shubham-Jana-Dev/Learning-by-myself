@@ -19,6 +19,7 @@
 | [0412-fizz-buzz](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0796-rotate-string) |
 ## Sliding Window
 |  |
