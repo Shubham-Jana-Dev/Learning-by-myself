@@ -7,7 +7,6 @@ class Solution {
         }
         int index = 0;
         for(char c : word.toCharArray()){
-            //char k = word.charAt(j);
             if(index > 0 && Character.isUpperCase(c)){
                return false;
             }
