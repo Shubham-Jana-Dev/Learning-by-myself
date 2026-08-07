@@ -1,7 +1,5 @@
 class Solution {
     public boolean detectCapitalUse(String word) {
-        boolean flagl = true;
-        boolean flagu = false;
         if(word.toUpperCase() == word || word.toLowerCase() == word){
             return true;
         }
@@ -12,6 +10,6 @@ class Solution {
             }
             index++;
         }
-        return flagl;
+        return true;
     }
 }
