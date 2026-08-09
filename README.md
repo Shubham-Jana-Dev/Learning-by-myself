@@ -30,6 +30,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0633-sum-of-square-numbers) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0069-sqrtx) |
 | [0633-sum-of-square-numbers](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
@@ -133,4 +135,8 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0707-design-linked-list) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
