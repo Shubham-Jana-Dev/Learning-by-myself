@@ -92,6 +92,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -126,4 +127,8 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0055-jump-game) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
