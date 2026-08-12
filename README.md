@@ -44,6 +44,7 @@
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0595-big-countries) |
 | [1179-reformat-department-table](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/1179-reformat-department-table) |
 ## Two Pointers
