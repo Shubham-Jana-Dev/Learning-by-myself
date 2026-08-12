@@ -57,6 +57,7 @@
 | [0141-linked-list-cycle](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0633-sum-of-square-numbers) |
 ## Array
 |  |
@@ -66,6 +67,7 @@
 | [0055-jump-game](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0500-keyboard-row) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -78,12 +80,14 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0069-sqrtx) |
+| [0287-find-the-duplicate-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -156,4 +160,9 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
