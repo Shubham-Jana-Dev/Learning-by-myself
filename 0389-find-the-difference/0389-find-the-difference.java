@@ -3,7 +3,6 @@ class Solution {
         int result = 0;
         int lenT = t.length();
         int lenS = s.length();
-        //int loopCount = lenT*lenT;
         for(int j = 0; j<lenS; j++){
             result = result ^ ((int) s.charAt(j) ^ (int) t.charAt(j));
         }
