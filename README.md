@@ -10,6 +10,7 @@
 | [0013-roman-to-integer](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0500-keyboard-row) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -76,6 +77,7 @@
 | [0055-jump-game](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0500-keyboard-row) |
@@ -147,12 +149,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0389-find-the-difference) |
 | [3731-find-missing-elements](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0169-majority-element) |
 ## Enumeration
 |  |
 | ------- |
@@ -187,4 +191,12 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
