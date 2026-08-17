@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09f5e35d-99b5-41d2-9381-d0f00e775800" name="Changes" comment="" />
+    <list default="true" id="09f5e35d-99b5-41d2-9381-d0f00e775800" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Learning-DSA/SortingAlgorithms/QuickSortAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +15,65 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0000000037380241" />
+      <entry key="S60" value="1.0001909171421581" />
+      <entry key="M2" value="1.043594177087898" />
+      <entry key="M5" value="2.1753700054271237" />
+      <entry key="M10" value="4.813845082334813" />
+      <entry key="M15" value="6.83750667836081" />
+      <entry key="M30" value="10.189143422173727" />
+      <entry key="H1" value="12.68133100658117" />
+      <entry key="H2" value="14.219606173478525" />
+      <entry key="H4" value="15.076949886601298" />
+      <entry key="D1" value="15.841355786909082" />
+      <entry key="W1" value="15.977215659689929" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.1031038130810613E-6" />
+      <entry key="MS500" value="0.06434625521462481" />
+      <entry key="S2" value="0.5036522973691474" />
+      <entry key="S5" value="0.7600677886665078" />
+      <entry key="S10" value="0.8718186673078914" />
+      <entry key="S30" value="0.9553050102675905" />
+      <entry key="S60" value="0.977472128186602" />
+      <entry key="M2" value="1.0036104044429712" />
+      <entry key="M5" value="1.3553680039711176" />
+      <entry key="M10" value="2.036757645812717" />
+      <entry key="M15" value="2.4779966032533753" />
+      <entry key="M30" value="3.106006957154202" />
+      <entry key="H1" value="3.5136349837139704" />
+      <entry key="H2" value="3.746086775783873" />
+      <entry key="H4" value="3.8702408542905036" />
+      <entry key="D1" value="3.977973625117587" />
+      <entry key="W1" value="3.9968434413630716" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9265880619510504" />
+      <entry key="MS500" value="0.9939156054439462" />
+      <entry key="S2" value="1.3046217405854283" />
+      <entry key="S5" value="1.6231608948142917" />
+      <entry key="S10" value="1.7896077778431432" />
+      <entry key="S30" value="1.924323708755478" />
+      <entry key="S60" value="1.961683359903956" />
+      <entry key="M2" value="2.0385482410915707" />
+      <entry key="M5" value="3.5220509392123893" />
+      <entry key="M10" value="6.8408973222324345" />
+      <entry key="M15" value="9.306594972028897" />
+      <entry key="M30" value="13.288870251140837" />
+      <entry key="H1" value="16.191202854463857" />
+      <entry key="H2" value="17.963628098773" />
+      <entry key="H4" value="18.946108510728074" />
+      <entry key="D1" value="19.819141755507218" />
+      <entry key="W1" value="19.974032109570498" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4,
@@ -22,27 +84,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.MainRunFile.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/shubhamjana/Desktop/Files/Github clones/Learning-by-myself&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MainRunFile.executor": "Run",
+    "Application.QuickSortAlgorithm.executor": "Run",
+    "Application.Wrapperlnternals.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/shubhamjana/Learning-by-myself",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Application.QuickSortAlgorithm">
     <configuration name="MainRunFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Access_Modifier.MainRunFile" />
+      <module name="Learning-by-myself" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Access_Modifier.*" />
@@ -53,8 +121,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="QuickSortAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuickSortAlgorithm" />
+      <module name="Learning-by-myself" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Wrapperlnternals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wrapperlnternals" />
+      <module name="Learning-by-myself" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSortAlgorithm" />
+        <item itemvalue="Application.Wrapperlnternals" />
         <item itemvalue="Application.MainRunFile" />
       </list>
     </recent_temporary>
