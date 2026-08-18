@@ -13,6 +13,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0500-keyboard-row) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -74,6 +75,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0633-sum-of-square-numbers) |
 ## Array
 |  |
@@ -87,6 +89,7 @@
 | [0169-majority-element](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0500-keyboard-row) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -101,6 +104,7 @@
 | [0035-search-insert-position](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
@@ -158,6 +162,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0169-majority-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0389-find-the-difference) |
 | [3731-find-missing-elements](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
