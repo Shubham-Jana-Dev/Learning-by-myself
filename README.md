@@ -55,6 +55,7 @@
 | [0412-fizz-buzz](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0877-stone-game) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String Matching
 |  |
@@ -115,6 +116,7 @@
 | [0136-single-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
 | ------- |
