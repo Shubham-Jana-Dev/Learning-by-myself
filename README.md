@@ -96,6 +96,7 @@
 | [0500-keyboard-row](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0500-keyboard-row) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0896-monotonic-array) |
 | [1929-concatenation-of-array](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3471-find-the-largest-almost-missing-integer) |
