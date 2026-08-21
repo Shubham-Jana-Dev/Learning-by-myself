@@ -13,6 +13,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0500-keyboard-row) |
@@ -52,6 +53,7 @@
 | [0066-plus-one](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0877-stone-game) |
@@ -90,6 +92,7 @@
 | [0136-single-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0485-max-consecutive-ones) |
@@ -108,6 +111,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0633-sum-of-square-numbers) |
@@ -116,6 +120,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -169,6 +174,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0389-find-the-difference) |
 | [3731-find-missing-elements](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3731-find-missing-elements) |
