@@ -30,6 +30,7 @@
 | [0013-roman-to-integer](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0434-number-of-segments-in-a-string) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0234-palindrome-linked-list) |
