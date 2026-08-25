@@ -13,6 +13,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -101,6 +102,7 @@
 | [0136-single-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0349-intersection-of-two-arrays) |
@@ -186,6 +188,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -235,9 +238,11 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0229-majority-element-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
