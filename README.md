@@ -39,6 +39,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0520-detect-capital) |
+| [0657-robot-return-to-origin](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0796-rotate-string) |
 | [1927-sum-game](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -142,6 +143,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0412-fizz-buzz) |
+| [0657-robot-return-to-origin](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0657-robot-return-to-origin) |
 | [1929-concatenation-of-array](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Number Theory
