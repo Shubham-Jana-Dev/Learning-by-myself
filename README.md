@@ -20,6 +20,7 @@
 | [0389-find-the-difference](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0500-keyboard-row) |
+| [0771-jewels-and-stones](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0771-jewels-and-stones) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -41,6 +42,7 @@
 | [0500-keyboard-row](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0657-robot-return-to-origin) |
+| [0771-jewels-and-stones](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0796-rotate-string) |
 | [1927-sum-game](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3090-maximum-length-substring-with-two-occurrences) |
