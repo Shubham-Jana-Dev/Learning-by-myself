@@ -21,6 +21,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0771-jewels-and-stones) |
+| [2351-first-letter-to-appear-twice](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/2351-first-letter-to-appear-twice) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -45,6 +46,7 @@
 | [0771-jewels-and-stones](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0796-rotate-string) |
 | [1927-sum-game](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/1927-sum-game) |
+| [2351-first-letter-to-appear-twice](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/2351-first-letter-to-appear-twice) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
@@ -143,6 +145,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2351-first-letter-to-appear-twice](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/2351-first-letter-to-appear-twice) |
 ## Simulation
 |  |
 | ------- |
@@ -246,6 +249,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0229-majority-element-ii) |
+| [2351-first-letter-to-appear-twice](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
