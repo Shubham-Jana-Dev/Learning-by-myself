@@ -48,6 +48,7 @@
 | [0796-rotate-string](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0796-rotate-string) |
 | [1927-sum-game](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/1927-sum-game) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/2351-first-letter-to-appear-twice) |
+| [2390-removing-stars-from-a-string](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/2390-removing-stars-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
@@ -154,6 +155,7 @@
 | [0412-fizz-buzz](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0657-robot-return-to-origin) |
 | [1929-concatenation-of-array](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Number Theory
 |  |
@@ -195,6 +197,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0234-palindrome-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
