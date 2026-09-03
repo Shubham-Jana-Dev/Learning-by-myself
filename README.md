@@ -21,6 +21,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0771-jewels-and-stones) |
+| [0819-most-common-word](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0819-most-common-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/2351-first-letter-to-appear-twice) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -46,6 +47,7 @@
 | [0709-to-lower-case](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0796-rotate-string) |
+| [0819-most-common-word](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0819-most-common-word) |
 | [1927-sum-game](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/1927-sum-game) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/2390-removing-stars-from-a-string) |
@@ -120,6 +122,7 @@
 | [0485-max-consecutive-ones](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0500-keyboard-row) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0819-most-common-word](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0819-most-common-word) |
 | [0877-stone-game](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0896-monotonic-array) |
 | [1470-shuffle-the-array](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/1470-shuffle-the-array) |
@@ -255,6 +258,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0229-majority-element-ii) |
+| [0819-most-common-word](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0819-most-common-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Boyer–Moore Majority Vote Algorithm
