@@ -132,6 +132,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -266,4 +267,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0229-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
