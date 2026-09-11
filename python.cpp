@@ -17,7 +17,7 @@ print(f"The area of a circle with radius {r} is: {calculate_area(r)}")
     // 3. Run the code
     PyRun_SimpleString(pythonCode);
 
-    // 4. Shut down the interpreter
+    
     Py_Finalize();
 
     return 0;
