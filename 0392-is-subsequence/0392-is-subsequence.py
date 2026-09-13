@@ -1,7 +1,6 @@
 class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
-       # if(len(s) == len(t) and s != t):
-            #return False
+    
         result = ""
         ptr = 0
         ptr2 = 0
