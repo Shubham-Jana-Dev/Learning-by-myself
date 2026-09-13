@@ -39,6 +39,7 @@
 | [0125-valid-palindrome](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0500-keyboard-row) |
@@ -102,6 +103,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0633-sum-of-square-numbers) |
 ## Array
 |  |
@@ -194,6 +196,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0055-jump-game) |
+| [0392-is-subsequence](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
