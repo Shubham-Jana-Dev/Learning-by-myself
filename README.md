@@ -124,6 +124,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0500-keyboard-row) |
+| [0704-binary-search](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0819-most-common-word](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0819-most-common-word) |
 | [0877-stone-game](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0877-stone-game) |
@@ -147,6 +148,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubham-Jana-Dev/Learning-by-myself/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
