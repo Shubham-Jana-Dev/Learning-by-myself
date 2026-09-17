@@ -22,7 +22,7 @@ int main(){
     cin >> num;
     cout <<"\n";
     int t = FactorialCalculation(num);
-    //cout <<"The factorial of "<<num<<" is "<<t<<"."<< endl;
+    //     cout <<"The factorial of "<<num<<" is "<<t<<"."<< endl;
     int sum = SumasionCalculation(num);
     cout << "The Sumation of "<<num<<" is "<<sum<<"."<<endl;
     
