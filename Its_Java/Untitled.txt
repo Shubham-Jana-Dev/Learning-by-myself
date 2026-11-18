@@ -24,3 +24,13 @@ public class user_input{
         get_info();
         }
 }
+
+
+1. Add all the employee related section under the super admin.
+1. Create an employees section in the where all the employee related sections eill be showing.
+1. Rename the Employee & Payroll section as only "Employee attendance" (where there will be only showing the employee attandance status (for today, weekly, yearly with proper %)) it will not be editable by the person who is in the POS.
+
+if we 
+remove the refresh button from the navbar.
+
+remove over time and performance rating (because this is a small shop there is no need to keep these extra things) from the emplyees
