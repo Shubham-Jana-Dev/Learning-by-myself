@@ -1,6 +1,6 @@
 package OOP;
 
-public class Vehicle {
+public class Vehicle { //parent class
     String type;
     Vehicle(String type){
         this.type = type;
